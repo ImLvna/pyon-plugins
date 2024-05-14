@@ -1,0 +1,1 @@
+{"name":"Template Plugin","description":"A plugin for use as a template.","authors":[{"name":"You!","id":"YOUR_DISCORD_ID_HERE"}],"main":"index.js","vendetta":{"icon":"ic_badge_staff"},"bunny":{"useVendettaApi":true},"hash":"b5226fc855582a32c038c43dba37fbc9ec1391ac9d586386a5d80a70c3a642b0"}
